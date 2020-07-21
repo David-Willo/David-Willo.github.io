@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | He Jinhao</title>
+    <link>http://david-willo.github.io//patent/</link>
+      <atom:link href="http://david-willo.github.io//patent/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://david-willo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>http://david-willo.github.io//patent/</link>
+    </image>
+    
+    <item>
+      <title>Map fusion method suitable for sub-map with few overlapping parts</title>
+      <link>http://david-willo.github.io//patent/map-fusion-method/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://david-willo.github.io//patent/map-fusion-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-unmanned-platform synchronous positioning and map construction method under limitation of communication bandwidth and distance</title>
+      <link>http://david-willo.github.io//patent/multi-unmanned-platform-synchronous-positioning-and-map-construction/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://david-willo.github.io//patent/multi-unmanned-platform-synchronous-positioning-and-map-construction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick depth restoring method for three-dimensional reconstruction</title>
+      <link>http://david-willo.github.io//patent/quick-depth-restoring/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://david-willo.github.io//patent/quick-depth-restoring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
