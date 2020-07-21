@@ -3,22 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://david-willo.github.io/project/ground_n_aerial_collaborative_mapping_in_urban_environment/</loc>
-    <lastmod>2020-07-20T21:44:19+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://david-willo.github.io/</loc>
-    <lastmod>2020-07-20T21:44:19+08:00</lastmod>
+    <lastmod>2020-07-20T21:25:19+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://david-willo.github.io/project/</loc>
-    <lastmod>2020-07-20T21:44:19+08:00</lastmod>
+    <lastmod>2020-07-20T21:25:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://david-willo.github.io/project/structure_awared_vlo_-n_dense_mapping/</loc>
+    <loc>http://david-willo.github.io/project/structure_awared_vlo_n_dense_mapping/</loc>
     <lastmod>2020-07-20T21:25:19+08:00</lastmod>
   </url>
   
@@ -140,6 +135,10 @@
   <url>
     <loc>http://david-willo.github.io/project/robust_visual_inertial_odometry_with_consistent_sparsification/</loc>
     <lastmod>2017-09-20T19:43:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://david-willo.github.io/project/ground_n_aerial_collaborative_mapping_in_urban_environment/</loc>
   </url>
   
   <url>
