@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Liang Lin | He Jinhao</title>
-    <link>http://david-willo.github.io//author/liang-lin/</link>
-      <atom:link href="http://david-willo.github.io//author/liang-lin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://david-willo.github.io/author/liang-lin/</link>
+      <atom:link href="http://david-willo.github.io/author/liang-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Liang Lin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://david-willo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Liang Lin</title>
-      <link>http://david-willo.github.io//author/liang-lin/</link>
+      <link>http://david-willo.github.io/author/liang-lin/</link>
     </image>
     
     <item>
       <title>Embedding Temporally Consistent Depth Recovery for Real-time Dense Mapping in Visual-inertial Odometry</title>
-      <link>http://david-willo.github.io//project/cheng-embedding-2018/</link>
+      <link>http://david-willo.github.io/project/cheng-embedding-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://david-willo.github.io//project/cheng-embedding-2018/</guid>
+      <guid>http://david-willo.github.io/project/cheng-embedding-2018/</guid>
       <description>&lt;p&gt;A method to embed depth recovery algorithm into VIO-based sparse visual SLAM system for real-time dense mapping.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;A subspace-based stabilization scheme to maintain the temporal consistency of visual landmarks.&lt;/li&gt;
@@ -45,7 +45,7 @@
 
 
 
-  &lt;img data-src=&#34;http://david-willo.github.io//project/cheng-embedding-2018/album/3d_map_1_hu7371dfd10b02947e294cd0190ff80fdd_377335_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1445&#34; height=&#34;621&#34;&gt;
+  &lt;img data-src=&#34;http://david-willo.github.io/project/cheng-embedding-2018/album/3d_map_1_hu7371dfd10b02947e294cd0190ff80fdd_377335_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1445&#34; height=&#34;621&#34;&gt;
 
 
 
@@ -75,8 +75,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io//project/cheng-embedding-2018/album/3d_map_1.png&#34; &gt;
-  &lt;img data-src=&#34;http://david-willo.github.io//project/cheng-embedding-2018/album/3d_map_1_hu7371dfd10b02947e294cd0190ff80fdd_377335_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;442&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io/project/cheng-embedding-2018/album/3d_map_1.png&#34; &gt;
+  &lt;img data-src=&#34;http://david-willo.github.io/project/cheng-embedding-2018/album/3d_map_1_hu7371dfd10b02947e294cd0190ff80fdd_377335_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;442&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -84,8 +84,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io//project/cheng-embedding-2018/album/flowchart.png&#34; &gt;
-  &lt;img data-src=&#34;http://david-willo.github.io//project/cheng-embedding-2018/album/flowchart_hu6fd5de7c787896b97c8b103cfa7809a8_46319_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;694&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io/project/cheng-embedding-2018/album/flowchart.png&#34; &gt;
+  &lt;img data-src=&#34;http://david-willo.github.io/project/cheng-embedding-2018/album/flowchart_hu6fd5de7c787896b97c8b103cfa7809a8_46319_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;694&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -93,8 +93,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io//project/cheng-embedding-2018/album/landmarkmatch.png&#34; &gt;
-  &lt;img data-src=&#34;http://david-willo.github.io//project/cheng-embedding-2018/album/landmarkmatch_hu204e5f7f43ac0ea1bfa14169ff8d5fbd_175418_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io/project/cheng-embedding-2018/album/landmarkmatch.png&#34; &gt;
+  &lt;img data-src=&#34;http://david-willo.github.io/project/cheng-embedding-2018/album/landmarkmatch_hu204e5f7f43ac0ea1bfa14169ff8d5fbd_175418_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -102,8 +102,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io//project/cheng-embedding-2018/album/map_grey.png&#34; &gt;
-  &lt;img data-src=&#34;http://david-willo.github.io//project/cheng-embedding-2018/album/map_grey_huae2426d83be36ac398bee316d6fa9fd4_374747_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;802&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io/project/cheng-embedding-2018/album/map_grey.png&#34; &gt;
+  &lt;img data-src=&#34;http://david-willo.github.io/project/cheng-embedding-2018/album/map_grey_huae2426d83be36ac398bee316d6fa9fd4_374747_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;802&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -111,8 +111,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io//project/cheng-embedding-2018/album/result.png&#34; &gt;
-  &lt;img data-src=&#34;http://david-willo.github.io//project/cheng-embedding-2018/album/result_hu9aa0b8ef978779e84cb6a9ba822303f7_35347_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io/project/cheng-embedding-2018/album/result.png&#34; &gt;
+  &lt;img data-src=&#34;http://david-willo.github.io/project/cheng-embedding-2018/album/result_hu9aa0b8ef978779e84cb6a9ba822303f7_35347_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -141,9 +141,9 @@
     
     <item>
       <title>Embedding Temporally Consistent Depth Recovery for Real-time Dense Mapping in Visual-inertial Odometry</title>
-      <link>http://david-willo.github.io//publication/cheng-embedding-2018/</link>
+      <link>http://david-willo.github.io/publication/cheng-embedding-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://david-willo.github.io//publication/cheng-embedding-2018/</guid>
+      <guid>http://david-willo.github.io/publication/cheng-embedding-2018/</guid>
       <description>&lt;!-- 
 
 
@@ -167,8 +167,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io//publication/cheng-embedding-2018/album/3d_map_1.png&#34; &gt;
-  &lt;img data-src=&#34;http://david-willo.github.io//publication/cheng-embedding-2018/album/3d_map_1_hu7371dfd10b02947e294cd0190ff80fdd_377335_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;442&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io/publication/cheng-embedding-2018/album/3d_map_1.png&#34; &gt;
+  &lt;img data-src=&#34;http://david-willo.github.io/publication/cheng-embedding-2018/album/3d_map_1_hu7371dfd10b02947e294cd0190ff80fdd_377335_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;442&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -176,8 +176,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io//publication/cheng-embedding-2018/album/flowchart.png&#34; &gt;
-  &lt;img data-src=&#34;http://david-willo.github.io//publication/cheng-embedding-2018/album/flowchart_hu6fd5de7c787896b97c8b103cfa7809a8_46319_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;694&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io/publication/cheng-embedding-2018/album/flowchart.png&#34; &gt;
+  &lt;img data-src=&#34;http://david-willo.github.io/publication/cheng-embedding-2018/album/flowchart_hu6fd5de7c787896b97c8b103cfa7809a8_46319_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;694&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -185,8 +185,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io//publication/cheng-embedding-2018/album/landmarkmatch.png&#34; &gt;
-  &lt;img data-src=&#34;http://david-willo.github.io//publication/cheng-embedding-2018/album/landmarkmatch_hu204e5f7f43ac0ea1bfa14169ff8d5fbd_175418_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io/publication/cheng-embedding-2018/album/landmarkmatch.png&#34; &gt;
+  &lt;img data-src=&#34;http://david-willo.github.io/publication/cheng-embedding-2018/album/landmarkmatch_hu204e5f7f43ac0ea1bfa14169ff8d5fbd_175418_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -194,8 +194,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io//publication/cheng-embedding-2018/album/map_grey.png&#34; &gt;
-  &lt;img data-src=&#34;http://david-willo.github.io//publication/cheng-embedding-2018/album/map_grey_huae2426d83be36ac398bee316d6fa9fd4_374747_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;802&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io/publication/cheng-embedding-2018/album/map_grey.png&#34; &gt;
+  &lt;img data-src=&#34;http://david-willo.github.io/publication/cheng-embedding-2018/album/map_grey_huae2426d83be36ac398bee316d6fa9fd4_374747_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;802&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -203,8 +203,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io//publication/cheng-embedding-2018/album/result.png&#34; &gt;
-  &lt;img data-src=&#34;http://david-willo.github.io//publication/cheng-embedding-2018/album/result_hu9aa0b8ef978779e84cb6a9ba822303f7_35347_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io/publication/cheng-embedding-2018/album/result.png&#34; &gt;
+  &lt;img data-src=&#34;http://david-willo.github.io/publication/cheng-embedding-2018/album/result_hu9aa0b8ef978779e84cb6a9ba822303f7_35347_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
