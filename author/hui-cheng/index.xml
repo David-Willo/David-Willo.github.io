@@ -5,12 +5,77 @@
     <link>http://david-willo.github.io/author/hui-cheng/</link>
       <atom:link href="http://david-willo.github.io/author/hui-cheng/index.xml" rel="self" type="application/rss+xml" />
     <description>Hui Cheng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://david-willo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Hui Cheng</title>
       <link>http://david-willo.github.io/author/hui-cheng/</link>
     </image>
+    
+    <item>
+      <title>Ground and Aerial Collaborative Mapping in Urban Environments</title>
+      <link>http://david-willo.github.io/publication/he-ground-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://david-willo.github.io/publication/he-ground-2020/</guid>
+      <description>&lt;!-- 
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io/publication/he-ground-2020/album/rgb_real3.png&#34; &gt;
+  &lt;img data-src=&#34;http://david-willo.github.io/publication/he-ground-2020/album/rgb_real3_hu42e98180c27e7024548d2e2310913b0a_1310628_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;421&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;http://david-willo.github.io/publication/he-ground-2020/album/visual_real1.png&#34; &gt;
+  &lt;img data-src=&#34;http://david-willo.github.io/publication/he-ground-2020/album/visual_real1_hu5fce1c0ef30dedaddf4c512ba79b74b6_645544_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;365&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt; --&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;IROS18_1068_VI_fi.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt; --&gt;
+</description>
+    </item>
     
     <item>
       <title>Map fusion method suitable for sub-map with few overlapping parts</title>

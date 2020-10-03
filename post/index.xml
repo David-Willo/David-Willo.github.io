@@ -5,12 +5,21 @@
     <link>http://david-willo.github.io/post/</link>
       <atom:link href="http://david-willo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://david-willo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>http://david-willo.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>One paper has been accepted by IEEE Robotics and Automation Letters</title>
+      <link>http://david-willo.github.io/post/news/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://david-willo.github.io/post/news/</guid>
+      <description>&lt;p&gt;One paper &lt;em&gt;&lt;strong&gt;Ground and Aerial Collaborative Mapping in Urban Environments&lt;/strong&gt;&lt;/em&gt; has been accepted by &lt;em&gt;&lt;strong&gt;IEEE Robotics and Automation Letters (RA-L)&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
