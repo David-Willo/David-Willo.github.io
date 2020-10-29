@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yang Kong | Jinhao He&#39;s Homepage</title>
-    <link>http://david-willo.github.io/author/yang-kong/</link>
-      <atom:link href="http://david-willo.github.io/author/yang-kong/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yang Kong</description>
+    <title>2 | Jinhao He&#39;s Homepage</title>
+    <link>http://david-willo.github.io/publication-type/2/</link>
+      <atom:link href="http://david-willo.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://david-willo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Yang Kong</title>
-      <link>http://david-willo.github.io/author/yang-kong/</link>
+      <title>2</title>
+      <link>http://david-willo.github.io/publication-type/2/</link>
     </image>
     
     <item>
@@ -75,14 +75,6 @@
   &lt;source src=&#34;IROS18_1068_VI_fi.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt; --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Multi-unmanned-platform synchronous positioning and map construction method under limitation of communication bandwidth and distance</title>
-      <link>http://david-willo.github.io/patent/multi-unmanned-platform-synchronous-positioning-and-map-construction/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://david-willo.github.io/patent/multi-unmanned-platform-synchronous-positioning-and-map-construction/</guid>
-      <description></description>
     </item>
     
   </channel>
