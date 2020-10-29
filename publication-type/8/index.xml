@@ -5,12 +5,20 @@
     <link>http://david-willo.github.io/publication-type/8/</link>
       <atom:link href="http://david-willo.github.io/publication-type/8/index.xml" rel="self" type="application/rss+xml" />
     <description>8</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://david-willo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>8</title>
       <link>http://david-willo.github.io/publication-type/8/</link>
     </image>
+    
+    <item>
+      <title>Method for calibrating camera and QR code in unmanned vehicle</title>
+      <link>http://david-willo.github.io/patent/calibrating-camera-and-two-dimensional-code/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://david-willo.github.io/patent/calibrating-camera-and-two-dimensional-code/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Map fusion method suitable for sub-map with few overlapping parts</title>
